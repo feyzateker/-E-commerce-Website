@@ -1,2 +1,2 @@
-# -E-commerce-Website
- E-commerce website for a shoe store designed with PHP, made use of MySQL for database integration and management.
+# E-commerce-Website
+We designed and implemented an e-commerce website using PHP, made use of MySQL for database integration and management.
